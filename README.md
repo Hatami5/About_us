@@ -1,7 +1,10 @@
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
-<h1 align="center">Hi 👋, SageMind Tech Services</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=28&pause=1000&color=00BFA5&center=true&vCenter=true&width=700&lines=SageMind+Tech+Services;Where+Intelligence+Meets+Purpose;Innovating+for+a+Smarter,+Inclusive+Future" alt="Typing SVG" />
+</p>
+
 <h3 align="center">Artificial Intelligence, innovation, and human-centered technology.</h3>
 
 
@@ -85,9 +88,6 @@ We don’t just develop AI — **we develop the future.**
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=28&pause=1000&color=00BFA5&center=true&vCenter=true&width=700&lines=SageMind+Tech+Services;Where+Intelligence+Meets+Purpose;Innovating+for+a+Smarter,+Inclusive+Future" alt="Typing SVG" />
-</p>
 
 <p align="center">
   <b>🌐 Connect with us:</b><br>
